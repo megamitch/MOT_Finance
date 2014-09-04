@@ -1,0 +1,33 @@
+{
+    "name": "codingmatters/mot-finance",
+    "description": "Finance module for Mega Mitch Credit, Inc. Office Tool (MegaOfficeTool) Platform",
+    "license": "MIT",
+    "type": "application",
+    "keywords": [
+        "megamitch",
+        "office tools",
+        "finance",
+        "zf2"
+    ],
+    "homepage": "https://github.com/CodingMatters/MOT_Finance/",
+    "authors": [
+        {
+            "name": "Gab Amba",
+            "email": "gamba@gabbydgab.com",
+            "homepage": "http://www.gabbydgab.com/"            
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+          "MotFinance\\": "src/MotFinance/",
+          "MotFinanceTest\\": "tests/MotFinanceTest/"
+      }
+    },
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {        
+        "phpunit/phpunit": "4.*",
+        "phpunit/php-invoker": "1.*"
+    }
+}
