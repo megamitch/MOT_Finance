@@ -1,5 +1,5 @@
 {
-    "name": "codingmatters/mot-finance",
+    "name": "megamitch/mot-finance",
     "description": "Finance module for Mega Mitch Credit, Inc. Office Tool (MegaOfficeTool) Platform",
     "license": "MIT",
     "type": "application",
@@ -9,7 +9,7 @@
         "finance",
         "zf2"
     ],
-    "homepage": "https://github.com/CodingMatters/MOT_Finance/",
+    "homepage": "http://megamitch.ph",
     "authors": [
         {
             "name": "Gab Amba",
